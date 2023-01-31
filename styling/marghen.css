@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url(/imgs/background-6556414_960_720.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    font-family: 'Josefin Slab', serif;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    position: relative;
+}
+
+.header > img {
+  position: absolute;
+  top: 25px;
+  left: 80px;
+}
+
+.header > h1 {
+    position: absolute;
+    top: 50px;
+    left: 180px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    gap: 20px;
+}
+
+.example {
+    width: 250px;
+    padding: 100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color: rgb(40, 33, 33);
+    transition: transform linear 0.4s, opacity linear 0.4s;
+    cursor: crosshair;
+    opacity: 0.8;
+    justify-content: space-between;
+    position: relative;
+ 
+}
+
+.one {
+    position: absolute;
+    top: 170px;
+    left: 100px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 500px;
+}
+
+.two {
+    position: absolute;
+    top: 170px;
+    left: 600px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 500px;
+
+}
+
+.three {
+    position: absolute;
+    top: 170px;
+    left: 1100px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 500px;
+
+}
+
+.example:hover {
+    transform: scale(1.1);
+    opacity: 1;
+}
