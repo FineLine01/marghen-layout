@@ -4,6 +4,13 @@
 ## Welcome! 
 Thank you for checking out my project!
 
+- [The challenge](#the-challenge)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Author](#author)
+
+
 ## The challenge: 
 The challenge was to create a landing page with 3 cards presenting the projects of the author. 
 The users should be able to:
