@@ -1,5 +1,5 @@
 # MarGhen Desktop Layout project
-![ Design Preview ](./imgs/marghen-desktop.png)
+![ Design Preview ](./imgs/marghen-desktop1.png)
 
 ## Welcome! 
 Thank you for checking out my project!
