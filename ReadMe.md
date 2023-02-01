@@ -1,1 +1,1 @@
-(/imgs/marghen-desktop.png)
+(./imgs/marghen-desktop.png)
